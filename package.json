@@ -1,6 +1,6 @@
 {
   "name": "koda-b6-git1",
-  "version": "1.0.0",
+  "version": "1.2.0",
   "description": "v1.0.0 tidak interaktif\r v2.0.0 interaktif",
   "main": "index.js",
   "scripts": {
